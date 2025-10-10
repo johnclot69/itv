@@ -40,13 +40,13 @@ http://192.168.2.2:8888/udp/239.69.1.111:10304
 http://192.168.2.2:8888/udp/239.69.1.231:11028
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4%E7%BE%8E%E6%B4%B2.png" tvg-id="" tvg-name="CCTV4AME" group-title="央视",CCTV4中文国际美洲HD
 http://192.168.2.2:8888/udp/239.69.1.232:11034
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN%E7%BA%AA%E5%BD%95.png" tvg-id="" tvg-name="CGTN纪录" group-title="央视",CGTN英文纪录HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN%E7%BA%AA%E5%BD%95.png" tvg-id="" tvg-name="CGTNDocumentary" group-title="央视",CGTN英文纪录HD
 http://192.168.2.2:8888/udp/239.69.1.233:11040
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN.png" tvg-id="" tvg-name="CGTN" group-title="央视",CGTN英语HD
 http://192.168.2.2:8888/udp/239.253.155.175:9124
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E4%B8%AD%E6%96%87%E5%8F%B0.png" tvg-id="" tvg-name="" group-title="卫视",凤凰中文HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E4%B8%AD%E6%96%87%E5%8F%B0.png" tvg-id="" tvg-name="凤凰中文" group-title="卫视",凤凰中文HD
 http://192.168.2.2:8888/udp/239.69.2.20:11274
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF%E5%8F%B0.png" tvg-id="" tvg-name="" group-title="卫视",凤凰资讯HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF%E5%8F%B0.png" tvg-id="" tvg-name="凤凰资讯" group-title="卫视",凤凰资讯HD
 http://192.168.2.2:8888/udp/239.69.2.19:11268
 #EXTINF:-1 tvg-logo="https://epg.51zmt.top:8001/tb1/ws/hubei.png" tvg-id="hubeidianshitai-hbws" tvg-name="湖北卫视" group-title="卫视",湖北卫视HD
 http://192.168.2.2:8888/udp/239.253.155.115:8664

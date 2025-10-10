@@ -116,9 +116,9 @@ http://192.168.2.2:8888/udp/239.253.155.41:8220
 http://192.168.2.2:8888/udp/239.253.155.186:9196
 #EXTINF:-1 tvg-logo="https://epg.51zmt.top:8001/tb1/ws/sansha.png" tvg-id="sstv-sanshatv" tvg-name="三沙卫视" group-title="卫视",三沙卫视
 http://192.168.2.2:8888/udp/239.69.1.171:10662
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" group-title="卫视",山东教育卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2.png" tvg-id="" tvg-name="" group-title="卫视",山东教育卫视
 http://192.168.2.2:8888/udp/239.69.1.228:11010
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/%E5%8E%A6%E9%97%A8%E5%8D%AB%E8%A7%86.png" tvg-id="" tvg-name="厦门卫视" group-title="卫视",厦门卫视
+#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8001/tb1/ws/xiamen.png" tvg-id="" tvg-name="厦门卫视" group-title="卫视",厦门卫视
 http://192.168.2.2:8888/udp/239.69.1.127:10400
 #EXTINF:-1 tvg-logo="https://epg.51zmt.top:8001/tb1/ws/hubei.png" tvg-id="hubeijj" tvg-name="湖北经视频道" group-title="湖北",湖北经视HD
 http://192.168.2.2:8888/udp/239.69.1.41:9886

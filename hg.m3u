@@ -44,12 +44,12 @@ http://192.168.2.2:8888/udp/239.69.1.232:11034
 http://192.168.2.2:8888/udp/239.69.1.233:11040
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CGTN.png" tvg-id="" tvg-name="CGTN" group-title="央视",CGTN英语HD
 http://192.168.2.2:8888/udp/239.253.155.175:9124
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png" tvg-id="hubeidianshitai-hbws" tvg-name="湖北卫视" group-title="卫视",湖北卫视HD
+http://192.168.2.2:8888/udp/239.253.155.115:8664
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E4%B8%AD%E6%96%87%E5%8F%B0.png" tvg-id="" tvg-name="" group-title="卫视",凤凰中文HD
 http://192.168.2.2:8888/udp/239.69.2.20:11274
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF%E5%8F%B0.png" tvg-id="" tvg-name="" group-title="卫视",凤凰资讯HD
 http://192.168.2.2:8888/udp/239.69.2.19:11268
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png" tvg-id="hubeidianshitai-hbws" tvg-name="湖北卫视" group-title="卫视",湖北卫视HD
-http://192.168.2.2:8888/udp/239.253.155.115:8664
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" tvg-id="hunandianshitai-hnws" tvg-name="湖南卫视" group-title="卫视",湖南卫视HD
 http://192.168.2.2:8888/udp/239.253.155.139:8908
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" tvg-id="zhejiangdianshitai-zjws" tvg-name="浙江卫视" group-title="卫视",浙江卫视HD

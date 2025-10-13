@@ -141,10 +141,6 @@ http://192.168.2.2:8888/udp/239.69.1.93:10198
 http://192.168.2.2:8888/udp/239.69.1.94:10204
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" group-title="湖北",罗田新闻
 http://192.168.2.2:8888/udp/239.69.1.118:10346
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" tvg-id="翡翠台" tvg-name="翡翠台" group-title="特色",翡翠台
-https://migu.188766.xyz/?migutoken=2432ba1b5e5c8824ea6432108d524c8b&id=jade_twn&type=dy
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" tvg-id="明珠台" tvg-name="明珠台" group-title="特色",明珠台
-https://migu.188766.xyz/?migutoken=ae1c1c8bacc167f1a5bdc0949cd548e5&id=pearl_twn&type=dy
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E4%B8%AD%E5%9B%BD%E4%BA%A4%E9%80%9A.png" tvg-id="" tvg-name="中国交通频道" group-title="特色",中国交通HD
 http://192.168.2.2:8888/udp/239.69.2.3:11172
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E4%B8%AD%E5%8D%8E%E7%89%B9%E4%BA%A7.png" tvg-id="" tvg-name="" group-title="特色",中华特产HD

@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" tvg-id="1" tvg-name="CCTV1" group-title="央视",CCTV1HD
 http://192.168.2.2:8888/udp/239.253.155.96:8550
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" tvg-id="2" tvg-name="CCTV2" group-title="央视",CCTV2HD
@@ -116,7 +117,7 @@ http://192.168.2.2:8888/udp/239.253.155.41:8220
 http://192.168.2.2:8888/udp/239.253.155.186:9196
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" tvg-id="sstv-sanshatv" tvg-name="三沙卫视" group-title="卫视",三沙卫视
 http://192.168.2.2:8888/udp/239.69.1.171:10662
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2.png" tvg-id="" tvg-name="" group-title="卫视",山东教育卫视
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2.png" tvg-id="" tvg-name="" group-title="卫视",山东教育卫视
 http://192.168.2.2:8888/udp/239.69.1.228:11010
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" tvg-id="" tvg-name="厦门卫视" group-title="卫视",厦门卫视
 http://192.168.2.2:8888/udp/239.69.1.127:10400
@@ -134,12 +135,14 @@ http://192.168.2.2:8888/udp/239.69.1.204:10866
 http://192.168.2.2:8888/udp/239.69.1.206:10878
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" tvg-id="hubeish" tvg-name="湖北生活频道" group-title="湖北",湖北生活HD
 http://192.168.2.2:8888/udp/239.69.1.205:10872
-#EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HBHGTV1/HBHGTV1.jpg" tvg-id="" tvg-name="黄冈新闻综合" group-title="湖北",黄冈新闻综合
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/E6a-6Vl1Ts70omXwRIcYf16o2p1716redP5N6XSVbC_LeEuwB1TdZ1n50-h_visab2eZPZ8sIY2RiLLoLfLFOGY0BPD9SuyR_4JtazPrk0ni1ESH0BBjGC8wCpQpp1NMiVF3" tvg-id="" tvg-name="黄冈新闻综合" group-title="湖北",黄冈新闻综合
 http://192.168.2.2:8888/udp/239.69.1.93:10198
-#EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HBHGTV2/HBHGTV2.jpg" tvg-id="" tvg-name="黄冈公共频道" group-title="湖北",黄冈生活
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/E6a-6Vl1Ts70omXwRIcYf16o2p1716redP5N6XSVbC_LeEuwB1TdZ1n50-h_visab2eZPZ8sIY2RiLLoLfLFOGY0BPD9SuyR_4JtazPrk0ni1ESH0BBjGC8wCpQpp1NMiVF3" tvg-id="" tvg-name="黄冈公共频道" group-title="湖北",黄冈生活
 http://192.168.2.2:8888/udp/239.69.1.94:10204
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="罗田综合" group-title="湖北",罗田新闻
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" group-title="湖北",罗田新闻
 http://192.168.2.2:8888/udp/239.69.1.118:10346
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" tvg-id="翡翠台" tvg-name="翡翠台" group-title="特色",翡翠台
+https://migu.188766.xyz/?migutoken=110c0b3f127b0a17a89188c1bd430c21&id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&pp=1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E4%B8%AD%E5%9B%BD%E4%BA%A4%E9%80%9A.png" tvg-id="" tvg-name="中国交通频道" group-title="特色",中国交通HD
 http://192.168.2.2:8888/udp/239.69.2.3:11172
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E4%B8%AD%E5%8D%8E%E7%89%B9%E4%BA%A7.png" tvg-id="" tvg-name="" group-title="特色",中华特产HD
@@ -214,7 +217,7 @@ http://192.168.2.2:8888/udp/239.69.2.9:11208
 http://192.168.2.2:8888/udp/239.69.2.10:11214
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9A.png" tvg-id="" tvg-name="生活时尚" group-title="特色",生活时尚HD
 http://192.168.2.2:8888/udp/239.69.2.11:11220
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E4%B9%90%E6%B8%B8.png" tvg-id="" tvg-name="全纪实" group-title="特色",乐游HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E4%B9%90%E6%B8%B8.png" tvg-id="" tvg-name="" group-title="特色",乐游HD
 http://192.168.2.2:8888/udp/239.69.2.12:11226
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E9%87%91%E8%89%B2%E5%AD%A6%E5%A0%82.png" tvg-id="" tvg-name="" group-title="特色",金色学堂HD
 http://192.168.2.2:8888/udp/239.69.2.13:11232

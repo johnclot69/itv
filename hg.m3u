@@ -9,6 +9,8 @@ http://192.168.2.2:8888/udp/239.69.1.122:10370
 http://192.168.2.2:8888/udp/239.69.1.138:10466
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" tvg-id="5" tvg-name="CCTV5" group-title="央视",CCTV5HD
 http://192.168.2.2:8888/udp/239.69.1.123:10376
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" tvg-id="6" tvg-name="CCTV5+" group-title="央视",CCTV5+HD
+http://192.168.2.2:8888/udp/239.253.155.234:9484
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" tvg-id="7" tvg-name="CCTV6" group-title="央视",CCTV6HD
 http://192.168.2.2:8888/udp/239.69.1.124:10382
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" tvg-id="8" tvg-name="CCTV7" group-title="央视",CCTV7HD
@@ -33,8 +35,6 @@ http://192.168.2.2:8888/udp/239.69.1.155:10566
 http://192.168.2.2:8888/udp/239.69.1.249:11136
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" tvg-id="17" tvg-name="CCTV17" group-title="央视",CCTV17HD
 http://192.168.2.2:8888/udp/239.69.1.152:10548
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" tvg-id="6" tvg-name="CCTV5+" group-title="央视",CCTV5+HD
-http://192.168.2.2:8888/udp/239.253.155.234:9484
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4K.png" tvg-id="106" tvg-name="CCTV4K" group-title="央视",CCTV 4K
 http://192.168.2.2:8888/udp/239.69.1.111:10304
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4%E6%AC%A7%E6%B4%B2.png" tvg-id="" tvg-name="CCTV4EUO" group-title="央视",CCTV4中文国际欧洲HD
@@ -145,7 +145,7 @@ http://192.168.2.2:8888/udp/239.69.1.118:10346
 http://192.168.2.2:8888/udp/239.69.2.3:11172
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E4%B8%AD%E5%8D%8E%E7%89%B9%E4%BA%A7.png" tvg-id="" tvg-name="" group-title="特色",中华特产HD
 http://192.168.2.2:8888/udp/239.69.2.18:11262
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%A4%AE%E5%B9%BF%E8%B4%AD%E7%89%A9.png" tvg-id="" tvg-name="" group-title="特色",央广购物HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%A4%AE%E5%B9%BF%E8%B4%AD%E7%89%A9.png" tvg-id="" tvg-name="" group-title="特色",央广购物
 http://192.168.2.2:8888/udp/239.69.2.1:11160
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E8%81%9A%E9%B2%A8%E7%8E%AF%E7%90%83%E7%B2%BE%E9%80%89.png" tvg-id="" tvg-name="" group-title="特色",聚鲨环球精选
 http://192.168.2.2:8888/udp/239.69.2.14:11238
